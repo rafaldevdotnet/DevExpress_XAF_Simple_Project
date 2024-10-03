@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rmajewski\\source\\repos\\SimpleProjectManager\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Rafal\\source\\repos\\SimpleProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECF38B-0EE0-4935-B581-74572A9ED8CF}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\rafal\\source\\repos\\simpleprojectmanager\\simpleprojectmanager.module\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BECF38B-0EE0-4935-B581-74572A9ED8CF}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECF38B-0EE0-4935-B581-74572A9ED8CF}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\rafal\\source\\repos\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECF38B-0EE0-4935-B581-74572A9ED8CF}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Rafal\\source\\repos\\SimpleProjectManager\\SimpleProjectManager.Module\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\Rafal\\source\\repos\\SimpleProjectManager\\SimpleProjectManager.Module\\ReadMe.txt",
+              "RelativeToolTip": "SimpleProjectManager.Module\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T09:00:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planning.cs",
+              "DocumentMoniker": "C:\\Users\\Rafal\\source\\repos\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Planning.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\Planning.cs",
+              "ToolTip": "C:\\Users\\Rafal\\source\\repos\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Planning.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\Planning.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:00:01.15Z",
+              "EditorCaption": ""
             }
           ]
         }
